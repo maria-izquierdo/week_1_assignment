@@ -1,0 +1,67 @@
+html, body, button, input, table, td, th {
+  font-family: Helvetica, Arial, sans-serif; }
+
+
+body {
+    color: #0b0c0c;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 400;
+    text-align: center;
+    }
+
+header {
+    text-align: center;
+    font-size: 16px;
+    }
+
+h1 {
+  font-size: 1em;
+  text-align: center;
+  padding-top: 70px;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: bold;
+  color: darkred;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #ffe100;
+}
+
+hr {
+  width: 700px;
+  color: black;
+}
+
+.intro {
+  font-size: 24px;
+  letter-spacing: 0.5px;
+}
+
+.details {
+  color: grey;
+  text-align: left;
+  margin-left: 600px;
+}
+
+.description {
+  line-height: 1.5em;
+	margin-top:30px;
+	width: 700px;
+  text-align: left;
+  letter-spacing: 1px;
+}
